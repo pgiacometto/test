@@ -6,6 +6,6 @@
  - a veces es fastidioso
  - pero no hay problema ya lo estamos agarrando
  - entonces ya esta listos para trabajar solo ??
- - si como asi da conflicto "::>>,? veces puede dar conflicto
+ - si est como va a dar el conflicto ?? pero a veces puede dar conflicto
 
 # titulo 2
